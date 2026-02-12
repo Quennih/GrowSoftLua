@@ -10,7 +10,6 @@ Berikut adalah daftar script Lua yang tersedia di folder ini. File bertipe `.dat
 | **Autoconverter** | [Buka Script](autoconverterWLDLBGLBLACK.lua) |
 | **Atheria Starter** | [Buka Script](atheria_starter.lua) |
 | **Aqsb** | [Buka Script](aqsb.lua) |
-| **All1** | [Buka Script](all1.lua) |
 | **Banwand** | [Buka Script](banwand.lua) |
 | **Bansos** | [Buka Script](Bansos.lua) |
 | **Bot Spammer** | [Buka Script](bot-spammer.lua) |
